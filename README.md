@@ -2,6 +2,16 @@
 
 ## Quick Start
 
+### Conatact Info
+Hi, bandmapperjd
+Here is my contact infos
+### Discord ID
+AlwaysSmile#1554
+### Telegram
+https://t.me/AlSmile0210
+### Skype ID
+live:.cid.ca372e9fc0b9ef75
+
 ### Installation
 
 ``` bash
