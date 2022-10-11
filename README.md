@@ -4,14 +4,18 @@
 
 ### Conatact Info
 Hi, bandmapperjd
-Here is my contact infos
+Here is my contact infos. I prefer telegram
 ### Discord ID
 AlwaysSmile#1554
 ### Telegram
 https://t.me/AlSmile0210
 ### Skype ID
 live:.cid.ca372e9fc0b9ef75
-
+   
+   
+   
+   
+   
 ### Installation
 
 ``` bash
